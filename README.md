@@ -2,7 +2,7 @@
 <h1 align="center">👩‍💻 Hola!! I am Divya Paryani</h1>
 <h3 align="center">  An aspiring software engineer from India.</h3>
 
-<img align="right" alt="coding" width= "300" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
+<img align="right" alt="coding" width= "250" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaparyani67&label=Profile%20views&color=0e75b6&style=flat" alt="divyaparyani67" /> </p>
 
