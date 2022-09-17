@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [FreeCodeCamp - JavaScript Algorithms and Data Structures and Responsive Web Design course](https://www.freecodecamp.org/divyaparyani67)
 
-- 🌱 I’m currently learning **Product Engineering from (SAOL)**
+- 🌱 I’m currently learning **Product Engineering (SAOL)**
 
-- 👯 I’m looking to collaborate on **Beginner Lever JavaScript Project**
+- 👯 I’m looking to collaborate on **Beginner Level JavaScript Project**
 
 - 🤝 I’m looking for help with **JavaScript API**
 
