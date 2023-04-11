@@ -1,6 +1,6 @@
 ![logo](https://github.com/divyaparyani67/divyaparyani67/blob/main/Divya%20Paryani%20(1).gif)
 <h1 align="center">👩‍💻 Hola!! I am Divya Paryani</h1>
-<h3 align="center">  An aspiring software engineer from India.</h3>
+<h3 align="center">  An aspiring Backend Developer from India.</h3>
 
 <img align="right" alt="coding" width= "180" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
 
